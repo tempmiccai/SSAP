@@ -1,7 +1,8 @@
 
 # SSAP: Self-Supervised Learning for Accessible Chest X-ray Pre-trained Model
 
-![Screen Shot 2022-02-15 at 3.31.53 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f8ac5443-8e97-4202-8bb7-3bc59d3a40fa/Screen_Shot_2022-02-15_at_3.31.53_PM.png)
+<img width="746" alt="Screen Shot 2022-02-15 at 3 31 53 PM" src="https://user-images.githubusercontent.com/99858652/154410923-cac92e34-11be-42ce-ac39-79a89f36b81f.png">
+
 
 # **Requirements**
 
